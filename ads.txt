@@ -120,3 +120,21 @@ MANAGERDOMAIN= anymanager.io
 anymanager.io, A7496, DIRECT
 google.com, pub-3389025920703065, RESELLER, f08c47fec0942fa0
 google.com, pub-9058291854443881, RESELLER, f08c47fec0942fa0
+
+
+#Yieldmonk_GCPP
+MANAGERDOMAIN=yieldmonk.com
+OWNERDOMAIN=vadhusuratechno.github.io
+yieldmonk.com, 22951906221, DIRECT
+google.com, pub-9422585382673566, RESELLER, f08c47fec0942fa0
+google.com, pub-9298860897894361, DIRECT, f08c47fec0942fa0
+google.com, pub-3790066164809976, RESELLER, f08c47fec0942fa0
+google.com, pub-6716102264834969, DIRECT, f08c47fec0942fa0
+pubmatic.com, 159855, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 22884, RESELLER, 0bfd66d529a55807
+appnexus.com,16774,RESELLER,f5ab79cb980f11d1
+inmobi.com, e05e4461515245fc8ca91510ed240025, DIRECT, 83e75a7ae333ca9d
+smaato.com, 1100054930, RESELLER, 07bcf65f187117b4
+adingo.jp, 29005, RESELLER
+onetag.com, 770d1b9d1d7a4f2, DIRECT
+google.com, pub-5275460454636833, DIRECT, f08c47fec0942fa0
