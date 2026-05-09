@@ -169,3 +169,7 @@ rubiconproject.com, 27264, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 27266, RESELLER, 0bfd66d529a55807
 inmobi.com, 1e3bbb89cc344ba784515ed0d153e966, RESELLER, 83e75a7ae333ca9d
 pubmatic.com, 159855, RESELLER, 5d62403b186f2ace
+
+
+adpixis.com, 22951906221, DIRECT
+google.com, pub-1088508191391776, RESELLER, f08c47fec0942fa0
